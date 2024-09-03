@@ -11,10 +11,13 @@ This project focuses on time series forecasting using a variety of statistical a
 - **Evaluation**: Model performance is assessed using standard metrics, and the best model is selected based on accuracy and other relevant criteria.
 
 ## 🔑 Key Features
-- Time series decomposition.
-- EDA and data preprocessing.
-- Data visualization.
-- Model evaluation and comparison.
+- EDA and data preprocessing
+- Data visualization
+- Time series decomposition
+- Model fitting
+- Prediction generation
+- Model evaluation
+- Models comparison
 
 ## 🛠️ Prerequisites
 Before running the notebooks, ensure that you have the following installed:
@@ -31,4 +34,11 @@ To explore the analysis:
 2. Run the Jupyter notebooks. Each notebook is independent and self-contained, with specified libraries and installation instructions included within.
 
 ## 🌐 Data Sources
-Each notebook includes its respective data source. The datasets are provided within the repository.
+Each notebook includes its respective data source. The datasets are either provided within the repository or linked to external sources.
+
+## 💡 Note
+These notebooks will also be shared on Kaggle. To open a link in a new tab, hold CTRL (CMD) and click the link. 
+
+- https://www.kaggle.com/code/lizk75/traffic-prophet-sarima-sarimax
+- https://www.kaggle.com/code/lizk75/aapl-prophet-arima
+
