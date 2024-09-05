@@ -16,6 +16,7 @@ This project focuses on time series forecasting using a variety of statistical a
 - Time series decomposition
 - Model fitting
 - Prediction generation
+- Cross validation
 - Model evaluation
 - Models comparison
 
